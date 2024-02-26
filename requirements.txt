@@ -1,0 +1,62 @@
+# torch==1.11.0
+# torchvision==0.12.0
+# cudatoolkit==11.3
+pytransform3d
+pytorch3d
+addict
+cython
+# numpy
+Pillow
+pyyaml
+regex
+yapf
+ffmpeg-python
+pandas
+tables
+h5py
+coverage
+lmdb
+pytest
+PyTurboJPEG
+open3d
+trimesh
+gymnasium
+shapely
+sorcery
+psutil
+opencv-python
+tensorboard
+tabulate
+rtree
+GitPython
+pynvml
+kubernetes
+pynput
+sqlalchemy
+docker
+crc32c
+pypi-simple
+numpy-quaternion
+termcolor
+pymeshlab
+plyfile
+einops
+ninja
+deprecation
+# torch==1.12.1
+numpy<1.24
+scipy
+gymnasium>=0.28.1
+sapien==2.2.2
+pyyaml
+tqdm
+gdown>=4.6.0
+imageio
+imageio[ffmpeg]
+trimesh
+rtree
+matplotlib
+# tensorflow
+wandb
+# torchvision
+protobuf==3.19.0
